@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Maze&family=Shadows+Into+Light&display=swap');
+body {
+  background-image:url(../img/fondo.jpg);
+  
+  width: 100%;
+}
+main{
+  padding:  0 20%;
+  border-top: 2px solid rgb(243, 245, 248);
+}
+img.perfil{
+  width: 250px;
+}
+header{
+  text-align:center;
+}
+li{
+  list-style:none;
+}
+a{
+  text-decoration:none;
+}
+h1{
+  font-family: 'Rubik Maze', cursive;
+  text-align:center;
+}
+h2{
+  font-family: 'Rubik Maze', cursive;
+}
+p.description{
+  text-align:justify;
+}
+li,p{
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 20px;
+}
+
+li span.cursiva{
+  font-weight: bold;
+}
+footer{
+  border-top: 2px solid rgb(243, 245, 248); ;
+  padding-top: 20px;
+  text-align:center;
+}
+
+footer img{
+  background-color: rgb(90, 177, 240);
+}
+
+footer ion-icon {
+  font-size: 20px;
+  color: rgb(90, 177, 240);
+}
+
